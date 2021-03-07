@@ -60,4 +60,6 @@ build
 # External projects
 *-prefix/
 
+# vscode
+.vscode
 # End of https://www.toptal.com/developers/gitignore/api/c++,cmake
